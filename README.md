@@ -1,2 +1,0 @@
-# hello
-Created via GeminiOS
